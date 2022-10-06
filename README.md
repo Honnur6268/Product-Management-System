@@ -1,5 +1,5 @@
 # Product-Management-System
-
+#For practice purpose only.
 
 
 Simple Product Management System using spring boot without using any database or repository for performing CRUD operations.
